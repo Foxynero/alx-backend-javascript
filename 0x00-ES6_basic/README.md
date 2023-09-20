@@ -51,7 +51,7 @@ $ sudo apt install nodejs -y
 $ node -v
 $ npm -v
 ```
-### Insatalling jest, Babel and ESLint
+### Installing jest, Babel and ESLint
 
 - [ESLint insatallation guide](https://eslint.org/docs/latest/use/getting-started)
 
@@ -65,7 +65,7 @@ $ npm install --save-dev eslint
 
 ### Configurations
 
-- create a file pakage.json and add copy-paste this code
+- create a file package.json and copy-paste this code
 ```json
 {
   "scripts": {
